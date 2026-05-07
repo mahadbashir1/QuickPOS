@@ -32,7 +32,7 @@ We utilized professional development tools to manage this project:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/QuickPOS-Landing.git
+   git clone https://github.com/mahadbashir1/QuickPOS.git
    ```
 
 2. **Move to local server directory:**
@@ -44,7 +44,7 @@ We utilized professional development tools to manage this project:
 4. **View the project:**
    Open your browser and navigate to:
    ```
-   http://localhost/QuickPOS-Landing/
+   http://localhost/QuickPOS/
    ```
 
 ## 📁 Repository Structure
@@ -58,4 +58,4 @@ We utilized professional development tools to manage this project:
 ```
 
 ---
-*Created for Software Design & Architecture Assignment.*
+*Created for Software Project Management Assignment.*
