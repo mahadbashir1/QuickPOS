@@ -1,9 +1,9 @@
 # QuickPOS Landing Page
 
-A modern, responsive, and pixel-perfect Point of Sale (POS) system landing page built with HTML5, CSS3, and PHP. This project was developed as part of the Software Design and Architecture course, demonstrating both product quality and professional process rigor.
+A modern, responsive, and pixel-perfect Point of Sale (POS) system landing page built with HTML5, CSS3, and PHP. This project was developed as part of the Software Project Management course, demonstrating both product quality and professional process rigor.
 
 ## 🚀 Live Demo
-*(Instructors: You can view the live version of this project by running it on a local PHP server like XAMPP or MAMP)*
+*You can view the live version of this project by running it on a local PHP server like XAMPP or MAMP*
 
 ## 👥 Team
 - **Abdul-Wahab** (PM, QA, Developer) - Handled Jira process, Epics 1, 3, & 6
